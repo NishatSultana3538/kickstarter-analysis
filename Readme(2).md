@@ -9,6 +9,7 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+![image_name](https://github.com/NishatSultana3538/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 First I create the formula for all different goal categories for number "successful" , then I copied it to number "failed" and number "canceled" and change the "successful" into "failed" and "canceled". I get 0 output for all canceled column. So i was confused and later cheked and find that there is no canceled outcome for "Plays" catgory. Next I  use "Sum" formula to get total project. Then I use percentage formula with rounding to get percentage successful , failed and canceled. To make the cells out come to % I have to divide by 100 to convert it to decimal and then format cells to use %.Then I insert the line chart and switch row and column.![image_name](https://github.com/NishatSultana3538/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
