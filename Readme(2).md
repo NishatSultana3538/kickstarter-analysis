@@ -9,6 +9,7 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+I created the Year column using date conversion column. Then I created a pivot table in a new worksheet. I filtered the pivot table using the parent catagory and years. Then I filtered the Filter the column labels to show only "successful," "failed," and "canceled." Then I group the "Row Labels" column to show the months of the year. Then I filtered the "Parent Category" to show only the data for "theater" and sort  the campaign outcomes in descending order so "successful"  column comes is first.Then I create a line chart from the pivot table to visualize the relationship between outcomes and launch month.![image_name](https://github.com/NishatSultana3538/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 ![image_name](https://github.com/NishatSultana3538/kickstarter-analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
