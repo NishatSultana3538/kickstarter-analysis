@@ -15,12 +15,12 @@ First I create the formula for all different goal categories for number "success
 "canceled". I get 0 output for all canceled colum. So i was confused and later cheked and find that there is no canceled outcome for "Plays" catgory.I  use Sum formula to get total project. Then I use percentage formula with rounding to get percentage successful , failed and canceled. To make the cells out come to % I have to divide by 100 to convert it to deccimal and then format cells to use %.
 
 ### Challenges and Difficulties Encountered
-I first face challenge to filter the parent catagory into Theater. The parent catagory was only showing "Film & video" as options. ![image-name](https://github.com/NishatSultana3538/kickstarter-analysis/blob/main/image/image%201.png)   my Excel file was corrupted and I started from a new file then it worke. 
+I first face challenge to filter the parent catagory into Theater. The parent catagory was only showing "Film & video" as options. !<image-name>(https://github.com/NishatSultana3538/kickstarter-analysis/blob/main/image/image%201.png)   my Excel file was corrupted and I started from a new file then it worke. 
 
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
-[filename]https://github.com/NishatSultana3538/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png
+- 
 1. The highest successful outcomes happen in the month of May and then it gradually decreases towards fall .
 2. Number of Successful out come is alaways more than failed outcome . 
 
