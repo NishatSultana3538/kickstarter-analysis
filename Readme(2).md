@@ -22,7 +22,7 @@ I first face challenge to filter the parent catagory into Theater. The parent ca
 * What are two conclusions you can draw about the Outcomes based on Launch Date?
 
 1. The highest successful outcomes happen in the month of May and then it gradually decreases towards fall .
-2. Number ofsuccessful out come is alaways more than failed outcome . 
+2. Number of successful outcome is always more than failed outcome . 
 
 
 
