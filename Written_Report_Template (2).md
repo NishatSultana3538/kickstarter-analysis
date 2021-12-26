@@ -20,6 +20,7 @@ I first face challenge to filter the parent catagory into Theater. The parent ca
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+[filename]https://github.com/NishatSultana3538/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png
 1. The highest successful outcomes happen in the month of May and then it gradually decreases towards fall .
 2. Number of Successful out come is alaways more than failed outcome . 
 
