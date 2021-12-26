@@ -1,7 +1,7 @@
 # Kickstarting with Excel
 
 ## Overview of Project
-An Analysis of Kickstarter Campaigns by usng Kickstarter data [filename]https://github.com/NishatSultana3538/kickstarter-analysis/blob/main/Kickstarter_Challenge%20.xlsx to help Louise with her project campaign.
+An Analysis of Kickstarter Campaigns by usng Kickstarter data [filename](https://github.com/NishatSultana3538/kickstarter-analysis/blob/main/Kickstarter_Challenge%20.xlsx) to help Louise with her project campaign.
 
 ### Purpose
 Louise’s play Fever came close to its fundraising goal in a short amount of time. Now, she wants to know how different campaigns fared in relation to their launch dates and their funding goals. Using the Kickstarter dataset I am trying to  visualize campaign outcomes based on their launch dates and their funding goals.
@@ -11,7 +11,7 @@ Louise’s play Fever came close to its fundraising goal in a short amount of ti
 ### Analysis of Outcomes Based on Launch Date
 
 ### Analysis of Outcomes Based on Goals
-First I create the formula for all different goal categories for number "successful" , then I copied it to number "failed" and number "canceled" and change the "successful" into "failed" and "canceled". I get 0 output for all canceled column. So i was confused and later cheked and find that there is no canceled outcome for "Plays" catgory. Next I  use "Sum" formula to get total project. Then I use percentage formula with rounding to get percentage successful , failed and canceled. To make the cells out come to % I have to divide by 100 to convert it to decimal and then format cells to use %.Then I insert the line chart and switch row and column.![image_name]https://github.com/NishatSultana3538/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png
+First I create the formula for all different goal categories for number "successful" , then I copied it to number "failed" and number "canceled" and change the "successful" into "failed" and "canceled". I get 0 output for all canceled column. So i was confused and later cheked and find that there is no canceled outcome for "Plays" catgory. Next I  use "Sum" formula to get total project. Then I use percentage formula with rounding to get percentage successful , failed and canceled. To make the cells out come to % I have to divide by 100 to convert it to decimal and then format cells to use %.Then I insert the line chart and switch row and column.![image_name](https://github.com/NishatSultana3538/kickstarter-analysis/blob/main/Resources/Outcomes_vs_Goals.png)
 ### Challenges and Difficulties Encountered
 I first face challenge to filter the parent catagory into Theater. The parent catagory was only showing "Film & video" as options. ![image-name](https://github.com/NishatSultana3538/kickstarter-analysis/blob/main/image/image%201.png)   my Excel file was corrupted and I started from a new file then it worke. 
 
